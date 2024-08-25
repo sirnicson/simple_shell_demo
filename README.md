@@ -23,6 +23,10 @@ This project demonstrates a basic C program that performs addition and subtracti
     - **`subtract` Function**: Subtracts the second integer from the first and returns the result.
     - **`main` Function**: Entry point of the program that calls the `subtract` function to compute the difference between two integers, prints the result, and displays the process ID.
 
+4. **`add_.c`**:
+    - **`add` Function**: Adds two integers and returns the result.
+    - **`main` Function**: Entry point of the program that calls the `add` function to compute the sum of two integers, prints the result, and displays the PID and PPID.
+
 ## Compilation
 
 Program was compiled using;
